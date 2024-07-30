@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankeja
 - 👀 I’m interested in web development and software development
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently learning Front End Development in what little spare time I have alongside a full time job and family/parenting.
 -
 -
 
